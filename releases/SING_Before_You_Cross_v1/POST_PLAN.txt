@@ -1,0 +1,24 @@
+SING BEFORE YOU CROSS SHORT (release v1)
+STATUS: APPROVED by Keith on 2026-10-16. Do not post until Keith says which day.
+
+BEFORE POSTING
+1. Check the video's SHA-256 against MANIFEST.json. If it does not match, stop and tell Keith.
+2. Turn on YouTube's altered/synthetic content label. Upload the matching .srt as the caption track.
+3. Do not edit the description. No logos.
+
+File:     videos/SING_Before_You_Cross_v1_ab94a3.mp4
+Captions: captions/SING_Before_You_Cross_v1_ab94a3.srt
+Check:    SHA-256 starts with ab94a3
+
+YouTube title:
+Sing Before You Cross (2 Chronicles 20 and Acts 16)
+
+YouTube description (copy exactly):
+When a huge army came, Jehoshaphat put the singers in front. At midnight in prison, Paul and Silas sang and every door opened. Praise is how we walk toward the victory.
+
+2 Chronicles 20:15-22
+Acts 16:25-26
+Made with SI.
+
+Short caption for X, TikTok and Instagram (copy exactly):
+Sing before you cross. Praise is how we walk toward the victory. 2 Chronicles 20 and Acts 16. Made with SI.

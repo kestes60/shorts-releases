@@ -1,0 +1,15 @@
+{
+  "series": "Bible Shorts: Moses / Exodus",
+  "version": "v1",
+  "status": "APPROVED by Keith 2026-10-16. Post only when Keith names the day.",
+  "verify": "sha256 of the video must match before posting",
+  "files": [
+    {
+      "video": "videos/SING_Before_You_Cross_v1_ab94a3.mp4",
+      "sha256": "ab94a33dc928c3244640ec1db7c99dbf62cfed76b1302fea877ce1e630f087d7",
+      "seconds": 48.9,
+      "captions": "captions/SING_Before_You_Cross_v1_ab94a3.srt",
+      "title": "Sing Before You Cross (2 Chronicles 20 and Acts 16)"
+    }
+  ]
+}
