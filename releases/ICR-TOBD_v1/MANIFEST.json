@@ -1,0 +1,53 @@
+{
+  "series": "ICR: Theory of Biological Design",
+  "version": "v1",
+  "built": "2026-10-16",
+  "status": "APPROVED by Keith 2026-10-16. Post only when Keith says 'post P#'.",
+  "verify": "sha256 of each video must match this file before posting",
+  "files": [
+    {
+      "part": 1,
+      "video": "videos/ICR-TOBD_P1_of_4_v1_84e052.mp4",
+      "sha256": "84e052893319719c4d361835131fd378cad6eef127f35fe86ad0166b6b92ae45",
+      "bytes": 1767122,
+      "seconds": 56.4,
+      "captions": "captions/ICR-TOBD_P1_of_4_v1_84e052.srt",
+      "captions_sha256": "97d44eda2f1b8c968ec2fad7a34862de89a12aba1b5d08cad392d37b3f70b2ed",
+      "title": "Same Play, Two Calls: Why Biology Needs a Better Theory (Part 1 of 4)",
+      "playlist": "ICR: Theory of Biological Design"
+    },
+    {
+      "part": 2,
+      "video": "videos/ICR-TOBD_P2_of_4_v1_a6a70a.mp4",
+      "sha256": "a6a70afd4b88b2719949f167f4b84442bd07b0c2757f91ef299067585091b2f6",
+      "bytes": 1835386,
+      "seconds": 52.5,
+      "captions": "captions/ICR-TOBD_P2_of_4_v1_a6a70a.srt",
+      "captions_sha256": "ef84824689741e2b26f1eaa6b1219fa37ca9325313912de869d4229b1a5469e3",
+      "title": "Darwin Flipped the Playbook (Part 2 of 4)",
+      "playlist": "ICR: Theory of Biological Design"
+    },
+    {
+      "part": 3,
+      "video": "videos/ICR-TOBD_P3_of_4_v1_e88ffd.mp4",
+      "sha256": "e88ffd26fdf22aa58cd179577a0404ee58e8dc6b35c54bd18399eb1d8fb72319",
+      "bytes": 2781416,
+      "seconds": 49.0,
+      "captions": "captions/ICR-TOBD_P3_of_4_v1_e88ffd.srt",
+      "captions_sha256": "badf3c306608396158350de7aa0518b30f1a4b63e9b22d5fa65784e481e43f67",
+      "title": "Built to Sense and Respond (Part 3 of 4)",
+      "playlist": "ICR: Theory of Biological Design"
+    },
+    {
+      "part": 4,
+      "video": "videos/ICR-TOBD_P4_of_4_v1_85d148.mp4",
+      "sha256": "85d1480884ac8d797971a1551d0e1b10eb84dee8f998ab4cc0e1cbc0bc073e77",
+      "bytes": 1804805,
+      "seconds": 51.9,
+      "captions": "captions/ICR-TOBD_P4_of_4_v1_85d148.srt",
+      "captions_sha256": "7e7f4a117ecc430a22e69b918263310c2e07e4a853241b00d3b7582cdc55cd21",
+      "title": "A New Way to See Life (Part 4 of 4)",
+      "playlist": "ICR: Theory of Biological Design"
+    }
+  ]
+}

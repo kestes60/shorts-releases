@@ -1,0 +1,83 @@
+ICR SERIES: POST PLAN (release v1)
+============================================================
+STATUS: APPROVED by Keith on 2026-10-16 (all four videos, scripture lines, playlist name). Still do not post anything until Keith says "post P1" (or P2, P3, P4).
+
+BEFORE POSTING ANY VIDEO
+1. Check the file's SHA-256 against MANIFEST.json. If it does not match, stop and tell Keith: it is the wrong version.
+2. Turn on YouTube's altered/synthetic content label. The description already says "Made with SI."
+3. Upload the matching .srt from the captions folder as the caption track.
+4. Add the video to the YouTube playlist named below. Create the playlist if it does not exist yet.
+5. No logos, no ICR clips, nothing that implies ICR made or endorses the video. Do not edit the footer.
+
+PLAYLIST: ICR: Theory of Biological Design
+ORDER: P1, P2, P3, P4, one per day alongside the daily Bible Short, after Keith approves each.
+
+------------------------------------------------------------
+PART 1 OF 4
+File:      videos/ICR-TOBD_P1_of_4_v1_84e052.mp4
+Captions:  captions/ICR-TOBD_P1_of_4_v1_84e052.srt
+Check:     SHA-256 starts with 84e052  (full value in MANIFEST.json)
+YouTube title: Same Play, Two Calls: Why Biology Needs a Better Theory (Part 1 of 4)
+YouTube description (copy exactly):
+A football catch at the sideline shows why the story you start with shapes what you see, and why Dr. Randy Guliuzza says biology needs a replacement theory.
+
+Part 1 of 4. Based on Dr. Randy Guliuzza's article "Why Biology Needs a Theory of Biological Design, Part 1" (Acts & Facts 53 (2), 2024), retold in our own words and visuals: https://www.icr.org/article/14536
+Made with SI.
+
+Inspired by Dr. Randy Guliuzza and the Institute for Creation Research. Not affiliated, just a supporter. Bless their work: icr.org/donate
+
+Short caption for X, TikTok and Instagram (copy exactly):
+Same play, two calls: why biology needs a better theory. Part 1 of 4. Inspired by Dr. Randy Guliuzza and ICR. Not affiliated, just a supporter. Bless their work: icr.org/donate Made with SI.
+
+------------------------------------------------------------
+PART 2 OF 4
+File:      videos/ICR-TOBD_P2_of_4_v1_a6a70a.mp4
+Captions:  captions/ICR-TOBD_P2_of_4_v1_a6a70a.srt
+Check:     SHA-256 starts with a6a70a  (full value in MANIFEST.json)
+YouTube title: Darwin Flipped the Playbook (Part 2 of 4)
+YouTube description (copy exactly):
+A spear never makes the spear maker. Dr. Randy Guliuzza argues Darwin took the design playbook and reversed it.
+
+Part 2 of 4. Based on Dr. Randy Guliuzza's article "Why Biology Needs a Theory of Biological Design, Part 2" (Acts & Facts 53 (3), 2024), retold in our own words and visuals: https://www.icr.org/article/14637
+Made with SI.
+Scripture: Psalm 19:1
+
+Inspired by Dr. Randy Guliuzza and the Institute for Creation Research. Not affiliated, just a supporter. Bless their work: icr.org/donate
+
+Short caption for X, TikTok and Instagram (copy exactly):
+Darwin flipped the playbook. Part 2 of 4. Inspired by Dr. Randy Guliuzza and ICR. Not affiliated, just a supporter. Bless their work: icr.org/donate Made with SI.
+
+------------------------------------------------------------
+PART 3 OF 4
+File:      videos/ICR-TOBD_P3_of_4_v1_e88ffd.mp4
+Captions:  captions/ICR-TOBD_P3_of_4_v1_e88ffd.srt
+Check:     SHA-256 starts with e88ffd  (full value in MANIFEST.json)
+YouTube title: Built to Sense and Respond (Part 3 of 4)
+YouTube description (copy exactly):
+A plane on autopilot climbs a mountain. Who gets the credit? Dr. Randy Guliuzza uses the picture to argue that living things are engineered to sense and respond.
+
+Part 3 of 4. Based on Dr. Randy Guliuzza's article "Why Biology Needs a Theory of Biological Design, Part 3" (Acts & Facts 53 (4), 2024), retold in our own words and visuals: https://www.icr.org/article/14753
+Made with SI.
+
+Inspired by Dr. Randy Guliuzza and the Institute for Creation Research. Not affiliated, just a supporter. Bless their work: icr.org/donate
+
+Short caption for X, TikTok and Instagram (copy exactly):
+Built to sense and respond. Part 3 of 4. Inspired by Dr. Randy Guliuzza and ICR. Not affiliated, just a supporter. Bless their work: icr.org/donate Made with SI.
+
+------------------------------------------------------------
+PART 4 OF 4
+File:      videos/ICR-TOBD_P4_of_4_v1_85d148.mp4
+Captions:  captions/ICR-TOBD_P4_of_4_v1_85d148.srt
+Check:     SHA-256 starts with 85d148  (full value in MANIFEST.json)
+YouTube title: A New Way to See Life (Part 4 of 4)
+YouTube description (copy exactly):
+Change how you look, and you change what you see. Dr. Randy Guliuzza names three benefits of seeing living things as designed systems.
+
+Part 4 of 4. Based on Dr. Randy Guliuzza's article "Why Biology Needs a Theory of Biological Design, Part 4" (Acts & Facts 53 (5), 2024), retold in our own words and visuals: https://www.icr.org/article/14825
+Made with SI.
+Scripture: John 1:3
+
+Inspired by Dr. Randy Guliuzza and the Institute for Creation Research. Not affiliated, just a supporter. Bless their work: icr.org/donate
+
+Short caption for X, TikTok and Instagram (copy exactly):
+A new way to see life. Part 4 of 4. Inspired by Dr. Randy Guliuzza and ICR. Not affiliated, just a supporter. Bless their work: icr.org/donate Made with SI.
