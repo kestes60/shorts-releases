@@ -1,0 +1,15 @@
+{
+  "series": "Bible Shorts: Moses / Exodus",
+  "version": "v1",
+  "status": "APPROVED by Keith 2026-10-16. Post only when Keith says 'post' and names the day.",
+  "verify": "sha256 of the video must match before posting",
+  "files": [
+    {
+      "video": "videos/EX14_Be_Still_v1_0a98c9.mp4",
+      "sha256": "0a98c91431ebfbed594935ca9e283ae57b3caf151c7da8457dcb959f57ba8fc0",
+      "seconds": 49.1,
+      "captions": "captions/EX14_Be_Still_v1_0a98c9.srt",
+      "title": "Do Not Be Afraid. Stand Firm. Be Still. (Exodus 14:13-14)"
+    }
+  ]
+}

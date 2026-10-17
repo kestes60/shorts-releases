@@ -1,0 +1,23 @@
+EXODUS 14:13-14 SHORT (release v1)
+STATUS: APPROVED by Keith on 2026-10-16. Do not post until Keith says which day.
+
+BEFORE POSTING
+1. Check the video's SHA-256 against MANIFEST.json. If it does not match, stop and tell Keith.
+2. Turn on YouTube's altered/synthetic content label. Upload the matching .srt as the caption track.
+3. Do not edit the description. No logos.
+
+File:     videos/EX14_Be_Still_v1_0a98c9.mp4
+Captions: captions/EX14_Be_Still_v1_0a98c9.srt
+Check:    SHA-256 starts with 0a98c9
+
+YouTube title:
+Do Not Be Afraid. Stand Firm. Be Still. (Exodus 14:13-14)
+
+YouTube description (copy exactly):
+Trapped between the sea and Pharaoh's army, Moses gave three commands that go against every instinct: do not be afraid, stand firm, be still. Yahweh will fight for you.
+
+Exodus 14:13-14
+Made with SI.
+
+Short caption for X, TikTok and Instagram (copy exactly):
+Do not be afraid. Stand firm. Be still. Yahweh will fight for you. Exodus 14:13-14. Made with SI.
